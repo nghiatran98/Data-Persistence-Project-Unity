@@ -57,7 +57,6 @@ public class DataPersistence : MonoBehaviour
 
             displayTopPlayer = data.bestPlayer;
             displayBestScore = data.bestScore;
-
         }
     }
 }
